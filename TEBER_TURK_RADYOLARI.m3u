@@ -2,6 +2,9 @@
 
 ---TEBER-RADYO-LİNKLERİ----------
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",SRT  FM SUNGURLU
+https://srtfm.ozelip.com/9902/stream
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",TÜRKÜLERLE TÜRKİYE
 https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8
 
@@ -43,9 +46,6 @@ https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KRAL POP
 https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo="SRT  FM SUNGURLU
-https://srtfm.ozelip.com/9902/stream
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KESKİN FM
 http://yayin1.canliyayin.org:8286/;
