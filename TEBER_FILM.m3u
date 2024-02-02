@@ -2,71 +2,20 @@
 
 *************TEBER DUBLAJ FİLM****************************
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", FLASH
-https://sx2.rovideo.buzz/v/d/tt0439572/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YARININ İŞİ
-https://sx1.rovideo.buzz/v/d/tt14672882/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", LİNELEUM
-https://sx2.rovideo.buzz/v/d/tt13483866/tr/1080.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YARATICI
-https://sx1.rovideo.buzz/v/d/tt11858890/tr/720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", RÜYALAR KİTABI
-https://sx1.rovideo.buzz/v/d/tt22037984/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", SİMOKİN
-https://sx2.rovideo.buzz/v/d/tt0290095/tr/1080.m3u8
+https://rovideo.xyz/118/tt11858890.720p.tr.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", A MİLON
-https://sx1.rovideo.buzz/v/d/tt21940010/tr/1080.m3u8
+https://rovideo.xyz/219/tt21940010.1080p.tr.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", MEG2 (ÇUKUR2)
-https://sx2.rovideo.buzz/v/d/tt9224104/tr/1080.m3u8
+https://rovideo.xyz/922/tt9224104.1080p.tr.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", RABEL MOON
-https://sx2.rovideo.buzz/v/d/tt14998742/tr/720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ÇÖL AVCILARI
-https://sx1.rovideo.buzz/v/d/tt29722855/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ÇIKMAZ
-https://sx1.rovideo.buzz/v/d/tt8511466/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", UZAYLILAR VE İNSANLAR
-https://sx2.rovideo.buzz/v/d/tt7645334/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", PARADİSE
-https://sx1.rovideo.buzz/v/d/tt21308888/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", BRİD BOX
-https://sx2.rovideo.buzz/v/d/tt14400246/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", POWER RENCIRS
-https://sx1.rovideo.buzz/v/d/tt23219684/tr/720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ANT MAN QANTUM
-https://sx2.rovideo.buzz/v/d/tt10954600/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Oparesyon 65
-https://sx1.rovideo.buzz/v/d/tt12261776/tr/720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", CIA APE
-https://sx2.rovideo.buzz/v/d/tt11465692/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YAYIN
-https://sx1.rovideo.buzz/v/d/tt12837582/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", THE JURASİX PET
-https://sx2.rovideo.buzz/v/d/tt7424930/tr/1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Sıradaki Şarkı
-https://sx2.rovideo.buzz/v/d/tt11116642/tr/1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", KAPTAN MARVEL2
+https://rovideo.xyz/106/tt10676048.720p.en.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", FOE
-https://sx1.rovideo.buzz/v/d/tt8258502/tr/1080.m3u8
+https://rovideo.xyz/825/tt8258502.1080p.tr.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", 71-4f22-b208-44b198dc6a9b.png",MEŞUR HAYALET
 https://rovideo.xyz/779/tt7798604.480p.tr.m3u8
