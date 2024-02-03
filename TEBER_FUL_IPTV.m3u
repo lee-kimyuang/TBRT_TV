@@ -95,6 +95,9 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ TV AZ
+https://rpn3.bozztv.com/ssh101/ssh101/ismayilli_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON HD
 http://ahmet.ddns.me:8000/m6sefertribn/090818/68612
 #EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 2 HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON 2 HD
