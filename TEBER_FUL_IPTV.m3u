@@ -95,11 +95,317 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68612
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 2 HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON 2 HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68613
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 3 HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON 3 HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68614
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 4 HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON 4 HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68615
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX PREMIER HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX PREMIER HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68616
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX TURK HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX TURK HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68617
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX PLUS HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX PLUS HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68618
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX GOLD HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX GOLD HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68619
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX AKSIYON HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX AKSIYON HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68620
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX AKSIYON 2 HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX AKSIYON 2 HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68621
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX WESTERN HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX WESTERN HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68622
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLUTV PLAY 1" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:BLUTV PLAY 1
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68623
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68679
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV 2" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV 2
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68680
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV KOMEDI" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV KOMEDI
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68681
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV AKSIYON" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV AKSIYON
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68683
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV AKSIYON 2" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV AKSIYON 2
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68684
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV AILE" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV AILE
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68685
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV 1001" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV 1001
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68686
+#EXTINF:-1 tvg-id="" tvg-name="TR:SINEMA TV 1002" tvg-logo="" group-title="SINEMA TV ",TR:SINEMA TV 1002
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68687
+
+********denizkaratasli********[ SINEMA ]**************
+
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://i.hizliresim.com/n5u19vr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: FX FHD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/203
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX 4K UHD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/228832
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="https://i.hizliresim.com/42qw072.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/18783
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="https://i.hizliresim.com/8jlr4qw.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX EXTRA HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/33954
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ACTION
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8566
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HORROR
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8570
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX BILIMKURGU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8567
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8568
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX COMEDY
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8571
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8574
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ARTHOUSE HD" tvg-logo="https://i.hizliresim.com/mz5fz3i.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ARTHOUSE HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/33955
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FAMILY
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8572
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ROMANTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/29069
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX DRAMA
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8569
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON INFO" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON INFO
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8544
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 1" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 1
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8545
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 2" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 2
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8546
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 3" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 3
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8547
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 4" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 4
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8548
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 5" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 5
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8549
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 6" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 6
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8550
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 7" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 7
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8551
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 8" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 8
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8552
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 9" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 9
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8553
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 10" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 10
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8554
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 11" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 11
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8555
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 12" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 12
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8556
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 13" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 13
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8557
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 14" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 14
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8558
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 15" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 15
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8559
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 16" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 16
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8560
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 17" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 17
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8561
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 18" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 18
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8562
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 19" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 19
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8563
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 20" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 20
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8564
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="https://i.hizliresim.com/93024bi.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Premier HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63034
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://i.hizliresim.com/qfpc25k.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX PLUS HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63045
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/q1e8v76.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX GOLD HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63046
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/nk64jvm.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX TURK HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63044
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="https://i.hizliresim.com/qepb776.png" group-title="10)TR➾ SINEMA & EGLENCE",TR:  MAX Aksiyon HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63032
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="https://i.hizliresim.com/htgpjc4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Aksiyon 2 HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63033
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://i.hizliresim.com/pemd0o2.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63038
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://i.hizliresim.com/4udck3r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 2 HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63039
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://i.hizliresim.com/hddkjh4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 3 HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63040
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://i.hizliresim.com/dsfyn9h.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 4 HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63041
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://i.hizliresim.com/t6aen7r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Orjinal HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63035
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="https://i.hizliresim.com/hd7vy4j.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Western HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63036
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://i.hizliresim.com/10qmepy.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Hint Filimleri
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63037
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://i.hizliresim.com/34k42nz.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX 007 HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63042
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://i.hizliresim.com/q1i97ay.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX STAR WARS HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63043
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK 4K ULTRA HD" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK 4K ULTRA HD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20778
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK VIZYON" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK VIZYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9118
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ACTION" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ACTION
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9116
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK KORKU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9117
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK GERILIM" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK GERILIM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3249
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK BILIMKURGU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK BILIMKURGU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3252
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK YERLI" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3257
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK MACERA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK MACERA
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/181
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK WESTERN" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK WESTERN
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3250
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK NETFLIX" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK NETFLIX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3254
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK DRAMA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK DRAMA
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3255
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK COMEDY" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK COMEDY
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/182
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK FANTASTIC" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/183
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ORJINAL" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ORJINAL
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20777
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX AKSIYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX AKSIYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20065
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20066
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX KORKU" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20067
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX YERLI" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20068
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX ANIMASYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20069
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX VIZYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX VIZYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20034
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX GOLD" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX GOLD
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20039
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ACTION" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ACTION
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20032
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX YERLI" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20044
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX KORKU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20036
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX BILIMKURGU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20033
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20035
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX COMEDY" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX COMEDY
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20037
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX NETFLIX" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX NETFLIX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20040
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ANIMASYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20043
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX WESTERN" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX WESTERN
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20042
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VIZYON" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL VIZYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20051
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL ACTION" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL ACTION
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20046
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FANTASTIC" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20048
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL KORKU" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20049
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL YERLI" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20052
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL DRAM" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL DRAM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20050
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX BILIMKURGU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20055
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX MACERA" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX MACERA
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20058
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX DRAM" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX DRAM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20059
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX YERLI" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20060
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX COMEDY" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX COMEDY
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20064
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX ACTION" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX ACTION
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22394
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX FANTASTIC
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22395
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX KORKU" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22396
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX SAVAS" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX SAVAS
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22397
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX MACERA" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX MACERA
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22398
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX YERLI" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX YERLI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22399
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX GERILIM" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX GERILIM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22400
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 1" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 1
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22403
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 2" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 2
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22404
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 3" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 3
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22405
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 4" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 4
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22406
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 5" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 5
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22407
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX VIZYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX VIZYON
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19278
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX KORKU
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/233
+#EXTINF:-1 tvg-id="" tvg-name="TR: HIZLI VE OFKELI" tvg-logo="" group-title="7/24 BOX-SET",TR: HIZLI VE OFKELI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229569
+#EXTINF:-1 tvg-id="" tvg-name="TR: GOREVIMIZ TEHLİKE" tvg-logo="" group-title="7/24 BOX-SET",TR: GOREVIMIZ TEHLİKE
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229568
+#EXTINF:-1 tvg-id="" tvg-name="TR: JOHN WICK" tvg-logo="" group-title="7/24 BOX-SET",TR: JOHN WICK
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229567
+#EXTINF:-1 tvg-id="" tvg-name="TR: RESIDENT EVIL" tvg-logo="" group-title="7/24 BOX-SET",TR: RESIDENT EVIL
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229566
+#EXTINF:-1 tvg-id="" tvg-name="TR: NARNIA GUNLUKLERI" tvg-logo="" group-title="7/24 BOX-SET",TR: NARNIA GUNLUKLERI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229302
+#EXTINF:-1 tvg-id="" tvg-name="TR: ASR-I SAADET" tvg-logo="" group-title="7/24 DINI",TR: ASR-I SAADET
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/220875
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM FILMBOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM FILMBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8573
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM MEGABOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM MEGABOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20045
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM PRIMEBOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM PRIMEBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9093
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM TV PLUS" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM TV PLUS
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8793
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",TR: BEST YESILCAM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184951
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",TR: DINAMIK YESILCAM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184981
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmcuBxDVBY2dUrtmsw2JKDyEdDPpMzejcaA&usqp=CAU" group-title="7/24 YESILCAM",TR: BEST HABABAM SINIFI
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184936
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmcuBxDVBY2dUrtmsw2JKDyEdDPpMzejcaA&usqp=CAU" group-title="7/24 YESILCAM",TR: DINAMIK HABABAM
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184968
+#EXTINF:-1 tvg-id="" tvg-name="CUNEYT ARKIN TV PLUS" tvg-logo="https://i.hizliresim.com/28d5hmz.png" group-title="7/24 YESILCAM",CUNEYT ARKIN TV PLUS
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8796
+#EXTINF:-1 tvg-id="" tvg-name="TR: CUNEYT ARKIN" tvg-logo="https://i.hizliresim.com/28d5hmz.png" group-title="7/24 YESILCAM",TR: CUNEYT ARKIN
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86616
+#EXTINF:-1 tvg-id="" tvg-name="HALIT AKCATEPE TV" tvg-logo="https://i.hizliresim.com/lpl5vo1.png" group-title="7/24 YESILCAM",HALIT AKCATEPE TV
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19284
+#EXTINF:-1 tvg-id="" tvg-name="ILYAS SALMAN TV FILMBOX" tvg-logo="https://i.hizliresim.com/26rmozm.png" group-title="7/24 YESILCAM",ILYAS SALMAN TV FILMBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8801
+#EXTINF:-1 tvg-id="" tvg-name="TR: ILYAS SALMAN" tvg-logo="https://i.hizliresim.com/26rmozm.png" group-title="7/24 YESILCAM",TR: ILYAS SALMAN
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86625
+#EXTINF:-1 tvg-id="" tvg-name="KADIR INANIR FILMBOX" tvg-logo="https://i.hizliresim.com/6upz8sy.png" group-title="7/24 YESILCAM",KADIR INANIR FILMBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8800
+#EXTINF:-1 tvg-id="" tvg-name="TR: KADIR INANIR" tvg-logo="https://i.hizliresim.com/6upz8sy.png" group-title="7/24 YESILCAM",TR: KADIR INANIR
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86619
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL FILMBOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL FILMBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8565
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL ARENABOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL ARENABOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20070
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL GLOBAL" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL GLOBAL
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20053
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL KINGBOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL KINGBOX
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20062
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL PROTURK" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL PROTURK
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3251
+****************BİZİM YEREL**********************************************
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KOBİM TV
 https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w551251138.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HABER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",7/24 TV 
-http://new.cache-stream.workers.dev/stream/UCqbCHJpfLyjajJZgJQHyBSw/live.m3u8
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",WOMAN TV
 https://embedlp.becdn.net/womantv.m3u8
@@ -168,6 +474,63 @@ http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4746317e-55e6-4af1-9995-d3becea611e6.png" group-title="Dizi-Youtube",Muhteşem Yüzyıl
 http://stream.tvcdn.net/dizi-youtube/muhtesem-yuzyil.m3u8
 
+*********************************TURK BELGESEL**********************************
+#EXTINF:-1 tvg-id="" tvg-name="*****TURK BELGESEL*****" tvg-logo="" group-title="Tr BELGESEL",*****TURK BELGESEL*****
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68494
+#EXTINF:-1 tvg-id="" tvg-name="TR:IDX HD" tvg-logo="" group-title="Tr BELGESEL",TR:IDX HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68495
+#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="" group-title="Tr BELGESEL",TR:DMAX HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68496
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN IZ HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN IZ HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68497
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN GURME HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN GURME HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68498
+#EXTINF:-1 tvg-id="" tvg-name="TR:BBC EARTH HD" tvg-logo="" group-title="Tr BELGESEL",TR:BBC EARTH HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68499
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO HD" tvg-logo="http://elif1.ddns.me:8000/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="Tr BELGESEL",TR:NAT GEO HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68500
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO WILD" tvg-logo="http://elif1.ddns.me:8000/images/e042f47ec5574e9f48d43da88c84b59c.png" group-title="Tr BELGESEL",TR:NAT GEO WILD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68501
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY CHANNEL" tvg-logo="http://elif1.ddns.me:8000/images/151e9cec211e53893487ae3f60ba19fe.png" group-title="Tr BELGESEL",TR:DISCOVERY CHANNEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68502
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY SCIENCE" tvg-logo="http://elif1.ddns.me:8000/images/4a2d65b6968ed163175da80c3c9474d3.png" group-title="Tr BELGESEL",TR:DISCOVERY SCIENCE
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68503
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-logo="" group-title="Tr BELGESEL",Viasat Explore
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68504
+#EXTINF:-1 tvg-id="" tvg-name="TR:HISTORY CHANNEL" tvg-logo="http://cmo1.ddns.me:8000/images/3bcb07eebe2540a1f96aef3a5b50b79c.png" group-title="Tr BELGESEL",TR:HISTORY CHANNEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68505
+#EXTINF:-1 tvg-id="" tvg-name="TR:VIASAT NATURE/HISTORY HD" tvg-logo="" group-title="Tr BELGESEL",TR:VIASAT NATURE/HISTORY HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68506
+#EXTINF:-1 tvg-id="" tvg-name="TR:LOVE NATURE HD" tvg-logo="http://cmo1.ddns.me:8000/images/44b51ef4f48cbfcd2c182351b32000d5.png" group-title="Tr BELGESEL",TR:LOVE NATURE HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68508
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cay tv" tvg-logo="" group-title="Tr BELGESEL",TR:Cay tv
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68509
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tarim Tv" tvg-logo="" group-title="Tr BELGESEL",TR:Tarim Tv
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68510
+#EXTINF:-1 tvg-id="" tvg-name="TR:YABAN TV" tvg-logo="http://slm2.ddns.me:8000/images/9cdb6badc9ff5b70d904a2425fc9d4ec.png" group-title="Tr BELGESEL",TR:YABAN TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68511
+#EXTINF:-1 tvg-id="" tvg-name="TR:K TV" tvg-logo="" group-title="Tr BELGESEL",TR:K TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68512
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TRT BELGESEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68513
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TGRT BELGESEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68514
+
+************BİZİM** Belgesel.tr **************************************
+
+#EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="Belgesel",Agro TV
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+#EXTINF:1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel",Çiftçi TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+#EXTINF:1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel",Tarım TV
+http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
+
+
+*********************************************************************
 #EXTINF:1 tvg-id="ETV.tr" tvg-logo="png" group-title="Ulusal - Yurt Dışı",ETV
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 
@@ -375,6 +738,78 @@ http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
 
+************************COCUK*********************************
+#EXTINF:-1 tvg-id="" tvg-name="*****TURK COCUK*****" tvg-logo="" group-title="Tr COCUK",*****TURK COCUK*****
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68515
+#EXTINF:-1 tvg-id="" tvg-name="TR:BABY TV" tvg-logo="" group-title="Tr COCUK",TR:BABY TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68516
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICK JR" tvg-logo="" group-title="Tr COCUK",TR:NICK JR
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68517
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICKELODEON HD" tvg-logo="" group-title="Tr COCUK",TR:NICKELODEON HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68518
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISNEY JUNIOR" tvg-logo="" group-title="Tr COCUK",TR:DISNEY JUNIOR
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68519
+#EXTINF:-1 tvg-id="" tvg-name="TR:CBEEBIES HD" tvg-logo="" group-title="Tr COCUK",TR:CBEEBIES HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68524
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOON NETWORK" tvg-logo="" group-title="Tr COCUK",TR:CARTOON NETWORK
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68525
+#EXTINF:-1 tvg-id="" tvg-name="TR:BOOMERANG HD" tvg-logo="" group-title="Tr COCUK",TR:BOOMERANG HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68526
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT NILOYA TV" tvg-logo="" group-title="Tr COCUK",TR:ELIT NILOYA TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68527
+#EXTINF:-1 tvg-id="" tvg-name="TR:DAVINCI LEARNING" tvg-logo="" group-title="Tr COCUK",TR:DAVINCI LEARNING
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68528
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL BOOBA TV" tvg-logo="" group-title="Tr COCUK",TR:METROPOL BOOBA TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68529
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL PEPPA PIG" tvg-logo="" group-title="Tr COCUK",TR:METROPOL PEPPA PIG
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68530
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT AKILLI TAVSAN MOMO" tvg-logo="" group-title="Tr COCUK",TR:ELIT AKILLI TAVSAN MOMO
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68531
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL BARBIE" tvg-logo="" group-title="Tr COCUK",TR:METROPOL BARBIE
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68532
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL KRAL SAKIR" tvg-logo="" group-title="Tr COCUK",TR:METROPOL KRAL SAKIR
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68533
+#EXTINF:-1 tvg-id="" tvg-name="TR:FIX SINEMA COCUK" tvg-logo="" group-title="Tr COCUK",TR:FIX SINEMA COCUK
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68534
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL KONUSAN TOM" tvg-logo="" group-title="Tr COCUK",TR:METROPOL KONUSAN TOM
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68535
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT ANIMASYON 3" tvg-logo="" group-title="Tr COCUK",TR:ELIT ANIMASYON 3
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68536
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL HAPSUU" tvg-logo="" group-title="Tr COCUK",TR:METROPOL HAPSUU
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68537
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL EGE ILE GAGA" tvg-logo="" group-title="Tr COCUK",TR:METROPOL EGE ILE GAGA
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68538
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT ANIMASYON 2" tvg-logo="" group-title="Tr COCUK",TR:ELIT ANIMASYON 2
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68539
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL ELIFIN DLER" tvg-logo="" group-title="Tr COCUK",TR:METROPOL ELIFIN DLER
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68540
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL MASA ILE KOCA AYI" tvg-logo="" group-title="Tr COCUK",TR:METROPOL MASA ILE KOCA AYI
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68541
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT ANIMASYON 1" tvg-logo="" group-title="Tr COCUK",TR:ELIT ANIMASYON 1
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68542
+#EXTINF:-1 tvg-id="" tvg-name="TR:METROPOL ISTANBUL MUHAFIZLARI" tvg-logo="" group-title="Tr COCUK",TR:METROPOL ISTANBUL MUHAFIZLARI
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68543
+#EXTINF:-1 tvg-id="" tvg-name="TR:ELIT COCUK" tvg-logo="" group-title="Tr COCUK",TR:ELIT COCUK
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68544
+
+********ÇOCUK TV******************************
+
+#EXTINF:1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+#EXTINF:1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+#EXTINF:1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Çocuk&Eğitim",Minika Çocuk
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="Çocuk&Eğitim",Minika Go
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="Çocuk&Eğitim",Bilsem Bizim TV
+http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98504028-b6b2-4651-9d10-1437ef368f5f.png" group-title="Çocuk&Eğitim",Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
 
 ***************TEBER TV*****MÜZİK****************************
 
@@ -417,37 +852,8 @@ http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 #EXTINF:1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="Müzik",Number 1 Dance
 http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 
-************** Belgesel.tr **************************************
+********TEBER*"Dini"***********************
 
-#EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
-http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-#EXTINF:1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="Belgesel",Agro TV
-http://stream.tvcdn.net/belgesel/agro-tv.m3u8
-#EXTINF:1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel",Çiftçi TV
-http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-#EXTINF:1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel",Tarım TV
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-
-********ÇOCUK TV******************************
-
-#EXTINF:1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
-#EXTINF:1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Çocuk&Eğitim",Minika Çocuk
-http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
-#EXTINF:1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="Çocuk&Eğitim",Minika Go
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
-#EXTINF:1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="Çocuk&Eğitim",Bilsem Bizim TV
-http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98504028-b6b2-4651-9d10-1437ef368f5f.png" group-title="Çocuk&Eğitim",Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
 #EXTINF:1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Dini",Diyanet TV
 http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 #EXTINF:1 tvg-id="VavTV.tr" tvg-logo="http://assets.tvcdn.net/0769611d-315b-4b02-a3c3-cb643e6fe872.png" group-title="Dini",Vav TV
@@ -878,10 +1284,8 @@ http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/yagmurlu-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e167f3b3-b68b-46a2-ab53-a56a7e2b7ab6.png" group-title="Diğer-Müzik",Kardeş TV
 http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b8a8f825-a737-4dc1-b429-5fa2ce9460f5.png" group-title="Diğer-Müzik",Just Vogue TV
 http://stream.tvcdn.net/diger-muzik/just-vogue-tv.m3u8
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1779c8e-b1e4-48c8-a205-161811d2b034.png" group-title="Diğer-Müzik",Nef TV
 http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bd3b49c4-ed93-40a2-9187-88f1b6e94064.png" group-title="Diğer-Müzik",Solaklı TV
@@ -1246,272 +1650,7 @@ http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/119
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/121
 #EXTINF:-1 tvg-id="" tvg-name="AV TV" tvg-logo="https://i.hizliresim.com/7235wgx.png" group-title="08)TR➾ BELGESEL",AV TV
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/123
-
-
-********denizkaratasli********[ SINEMA ]**************
-
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://i.hizliresim.com/n5u19vr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: FX FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/203
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX 4K UHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/228832
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="https://i.hizliresim.com/42qw072.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/18783
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="https://i.hizliresim.com/8jlr4qw.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX EXTRA HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/33954
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ACTION
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8566
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HORROR
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8570
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX BILIMKURGU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8567
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8568
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX COMEDY
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8571
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8574
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ARTHOUSE HD" tvg-logo="https://i.hizliresim.com/mz5fz3i.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ARTHOUSE HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/33955
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FAMILY
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8572
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ROMANTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/29069
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX DRAMA
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8569
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON INFO" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON INFO
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8544
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 1" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 1
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8545
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 2" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8546
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 3" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 3
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8547
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 4" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 4
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8548
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 5" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 5
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8549
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 6" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 6
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8550
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 7" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 7
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8551
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 8" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 8
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8552
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 9" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 9
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8553
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 10" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 10
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8554
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 11" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 11
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8555
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 12" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 12
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8556
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 13" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 13
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8557
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 14" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 14
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8558
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 15" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 15
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8559
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 16" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 16
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8560
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 17" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 17
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8561
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 18" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 18
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8562
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 19" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 19
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8563
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 20" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 20
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8564
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="https://i.hizliresim.com/93024bi.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Premier HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63034
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://i.hizliresim.com/qfpc25k.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX PLUS HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63045
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/q1e8v76.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX GOLD HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63046
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/nk64jvm.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX TURK HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63044
-#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="https://i.hizliresim.com/qepb776.png" group-title="10)TR➾ SINEMA & EGLENCE",TR:  MAX Aksiyon HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63032
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="https://i.hizliresim.com/htgpjc4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Aksiyon 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63033
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://i.hizliresim.com/pemd0o2.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63038
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://i.hizliresim.com/4udck3r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63039
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://i.hizliresim.com/hddkjh4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 3 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63040
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://i.hizliresim.com/dsfyn9h.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 4 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63041
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://i.hizliresim.com/t6aen7r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Orjinal HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63035
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="https://i.hizliresim.com/hd7vy4j.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Western HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63036
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://i.hizliresim.com/10qmepy.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Hint Filimleri
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63037
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://i.hizliresim.com/34k42nz.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX 007 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63042
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://i.hizliresim.com/q1i97ay.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX STAR WARS HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63043
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK 4K ULTRA HD" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK 4K ULTRA HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20778
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK VIZYON" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK VIZYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9118
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK ACTION" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ACTION
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9116
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK KORKU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9117
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK GERILIM" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK GERILIM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3249
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK BILIMKURGU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK BILIMKURGU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3252
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK YERLI" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3257
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK MACERA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK MACERA
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/181
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK WESTERN" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK WESTERN
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3250
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK NETFLIX" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK NETFLIX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3254
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK DRAMA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK DRAMA
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3255
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK COMEDY" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK COMEDY
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/182
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK FANTASTIC" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/183
-#EXTINF:-1 tvg-id="" tvg-name="PROTURK ORJINAL" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ORJINAL
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20777
-#EXTINF:-1 tvg-id="" tvg-name="ARENABOX AKSIYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX AKSIYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20065
-#EXTINF:-1 tvg-id="" tvg-name="ARENABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20066
-#EXTINF:-1 tvg-id="" tvg-name="ARENABOX KORKU" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20067
-#EXTINF:-1 tvg-id="" tvg-name="ARENABOX YERLI" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20068
-#EXTINF:-1 tvg-id="" tvg-name="ARENABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX ANIMASYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20069
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX VIZYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX VIZYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20034
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX GOLD" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX GOLD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20039
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ACTION" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ACTION
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20032
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX YERLI" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20044
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX KORKU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20036
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX BILIMKURGU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20033
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20035
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX COMEDY" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX COMEDY
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20037
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX NETFLIX" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX NETFLIX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20040
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ANIMASYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20043
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX WESTERN" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX WESTERN
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20042
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VIZYON" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL VIZYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20051
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL ACTION" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL ACTION
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20046
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FANTASTIC" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20048
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL KORKU" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20049
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL YERLI" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20052
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL DRAM" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL DRAM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20050
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX BILIMKURGU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20055
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX MACERA" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX MACERA
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20058
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX DRAM" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX DRAM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20059
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX YERLI" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20060
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX COMEDY" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX COMEDY
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20064
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX ACTION" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX ACTION
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22394
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX FANTASTIC
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22395
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX KORKU" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22396
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX SAVAS" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX SAVAS
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22397
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX MACERA" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX MACERA
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22398
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX YERLI" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22399
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX GERILIM" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX GERILIM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22400
-#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 1" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 1
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22403
-#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 2" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22404
-#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 3" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 3
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22405
-#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 4" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 4
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22406
-#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 5" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 5
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22407
-#EXTINF:-1 tvg-id="" tvg-name="REALBOX VIZYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX VIZYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19278
-#EXTINF:-1 tvg-id="" tvg-name="REALBOX KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX KORKU
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/233
-#EXTINF:-1 tvg-id="" tvg-name="TR: HIZLI VE OFKELI" tvg-logo="" group-title="7/24 BOX-SET",TR: HIZLI VE OFKELI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229569
-#EXTINF:-1 tvg-id="" tvg-name="TR: GOREVIMIZ TEHLİKE" tvg-logo="" group-title="7/24 BOX-SET",TR: GOREVIMIZ TEHLİKE
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229568
-#EXTINF:-1 tvg-id="" tvg-name="TR: JOHN WICK" tvg-logo="" group-title="7/24 BOX-SET",TR: JOHN WICK
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229567
-#EXTINF:-1 tvg-id="" tvg-name="TR: RESIDENT EVIL" tvg-logo="" group-title="7/24 BOX-SET",TR: RESIDENT EVIL
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229566
-#EXTINF:-1 tvg-id="" tvg-name="TR: NARNIA GUNLUKLERI" tvg-logo="" group-title="7/24 BOX-SET",TR: NARNIA GUNLUKLERI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/229302
-#EXTINF:-1 tvg-id="" tvg-name="TR: ASR-I SAADET" tvg-logo="" group-title="7/24 DINI",TR: ASR-I SAADET
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/220875
-#EXTINF:-1 tvg-id="" tvg-name="YESILCAM FILMBOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM FILMBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8573
-#EXTINF:-1 tvg-id="" tvg-name="YESILCAM MEGABOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM MEGABOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20045
-#EXTINF:-1 tvg-id="" tvg-name="YESILCAM PRIMEBOX" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM PRIMEBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9093
-#EXTINF:-1 tvg-id="" tvg-name="YESILCAM TV PLUS" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",YESILCAM TV PLUS
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8793
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",TR: BEST YESILCAM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184951
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="https://i.hizliresim.com/qd4xe27.png" group-title="7/24 YESILCAM",TR: DINAMIK YESILCAM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184981
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmcuBxDVBY2dUrtmsw2JKDyEdDPpMzejcaA&usqp=CAU" group-title="7/24 YESILCAM",TR: BEST HABABAM SINIFI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184936
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmcuBxDVBY2dUrtmsw2JKDyEdDPpMzejcaA&usqp=CAU" group-title="7/24 YESILCAM",TR: DINAMIK HABABAM
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184968
-#EXTINF:-1 tvg-id="" tvg-name="CUNEYT ARKIN TV PLUS" tvg-logo="https://i.hizliresim.com/28d5hmz.png" group-title="7/24 YESILCAM",CUNEYT ARKIN TV PLUS
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8796
-#EXTINF:-1 tvg-id="" tvg-name="TR: CUNEYT ARKIN" tvg-logo="https://i.hizliresim.com/28d5hmz.png" group-title="7/24 YESILCAM",TR: CUNEYT ARKIN
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86616
-#EXTINF:-1 tvg-id="" tvg-name="HALIT AKCATEPE TV" tvg-logo="https://i.hizliresim.com/lpl5vo1.png" group-title="7/24 YESILCAM",HALIT AKCATEPE TV
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19284
-#EXTINF:-1 tvg-id="" tvg-name="ILYAS SALMAN TV FILMBOX" tvg-logo="https://i.hizliresim.com/26rmozm.png" group-title="7/24 YESILCAM",ILYAS SALMAN TV FILMBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8801
-#EXTINF:-1 tvg-id="" tvg-name="TR: ILYAS SALMAN" tvg-logo="https://i.hizliresim.com/26rmozm.png" group-title="7/24 YESILCAM",TR: ILYAS SALMAN
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86625
-#EXTINF:-1 tvg-id="" tvg-name="KADIR INANIR FILMBOX" tvg-logo="https://i.hizliresim.com/6upz8sy.png" group-title="7/24 YESILCAM",KADIR INANIR FILMBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8800
-#EXTINF:-1 tvg-id="" tvg-name="TR: KADIR INANIR" tvg-logo="https://i.hizliresim.com/6upz8sy.png" group-title="7/24 YESILCAM",TR: KADIR INANIR
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/86619
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL FILMBOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL FILMBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8565
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL ARENABOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL ARENABOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20070
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL GLOBAL" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL GLOBAL
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20053
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL KINGBOX" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL KINGBOX
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20062
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL PROTURK" tvg-logo="https://i.hizliresim.com/4kkizn8.png" group-title="7/24 YESILCAM",KEMAL SUNAL PROTURK
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/3251
+**************************************************************************
 #EXTINF:-1 tvg-id="" tvg-name="MUNIR OZKUL TV YESILCAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBx1yLoj8XoXc7m5Dh1sJTHPGvwJiQg-N0Lg&usqp=CAU" group-title="7/24 YESILCAM",MUNIR OZKUL TV YESILCAM
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/18381
 #EXTINF:-1 tvg-id="" tvg-name="SADRI ALISIK TV" tvg-logo="https://i.hizliresim.com/ez7n7em.png" group-title="7/24 YESILCAM",SADRI ALISIK TV
