@@ -106,7 +106,7 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/ismayilli_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ MTV
-https://rpn3.bozztv.com/ssh101/ssh101/ismayıllı müzik/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/ismayıllı_müzik/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MTV AZ
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
