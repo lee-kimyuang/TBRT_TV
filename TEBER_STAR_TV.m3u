@@ -18,17 +18,24 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_ON_TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ&METİN TV 
-https://livestream.zazerconer.workers.dev/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 1
+#EXTINF:0,Yılmaz Güney TV
+#EXTGRP:Sinema
+https://ythls.armelin.one/channel/UCV9g7n7HsvCbkTOpChRqOLQ.m3u8
+#EXTINF:0,Zekî Metin TV
+#EXTGRP:Sinema
+https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:0,Şaban TV 1 HD
+#EXTGRP:Sinema
 https://tivi44.ozelip.com:3463/stream/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 2
-http://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 3 
+#EXTINF:0,Şaban TV 2
+#EXTGRP:Sinema
 https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+#EXTINF:0,Şaban TV 3
+#EXTGRP:Sinema
+https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+#EXTINF:0,Şaban TV 4
+#EXTGRP:Sinema
+https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
@@ -100,6 +107,48 @@ https://rpn3.bozztv.com/ssh101/ssh101/ismayilli_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MTV AZ
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
+
+#EXTINF:0,SİNEMA PRIME  HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87937
+#EXTINF:0,SİNEMA PRIME2  HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87671
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/88975
+#EXTINF:0, CINEMA 2 HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/88974
+#EXTINF:0,NETFLIX MOVIE LIVE  HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87662
+#EXTINF:0,NETFLIX SciFi LIVE HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87669
+#EXTINF:0,DISNEY MOVIE LIVE HD
+#EXTGRP:Sinema
+http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87936
+#EXTINF:0,SinemaTv4K  HD
+#EXTGRP:Sinema
+http://tinyurl.com/DeaTHLesS-NxtBox/play/live.php?mac=00:1A:79:34:F0:FD&stream=28946&extension=m3u8
+#EXTINF:0,FILMBOX
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384284
+#EXTINF:0,FILMBOX AKSIYON
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384285
+#EXTINF:0,FILMBOX COMEDY
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384286
+#EXTINF:0,FILMBOX FANTASTIC
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384287
+#EXTINF:0,FILMBOX KADIR INANIR
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384288
+#EXTINF:0,FILMBOX YESILCAM
+#EXTGRP:Sinema 2
+https://m3u-editor.com/serve/nasodeo12829/1048384289
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX VIZYON HD
 http://ahmet.ddns.me:8000/m6sefertribn/090818/68612
