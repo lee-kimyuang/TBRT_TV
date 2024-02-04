@@ -102,8 +102,11 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ TV AZ
+TINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ TV 
 https://rpn3.bozztv.com/ssh101/ssh101/ismayilli_tv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ MTV
+https://rpn3.bozztv.com/ssh101/ssh101/ismayıllı müzik/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MTV AZ
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
