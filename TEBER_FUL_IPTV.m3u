@@ -4503,6 +4503,9 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 *************TEBER DUBLAJ FİLM****************************
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ŞAKRAK JANGLENİN NOEL HİKAYESİ TR DUB
+https://rovideo.xyz/773/tt7736496.1080p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YARATICI
 https://rovideo.xyz/118/tt11858890.720p.tr.m3u8
 
