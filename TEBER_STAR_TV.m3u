@@ -115,7 +115,7 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ TV
-https://rpn3.bozztv.com/ssh101/ssh101/ismayilli_tv/playlist.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailtv/chunklist_w273808844.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ MTV
 https://rpn3.bozztv.com/ssh101/ssh101/ismayıllı_müzik/playlist.m3u8
