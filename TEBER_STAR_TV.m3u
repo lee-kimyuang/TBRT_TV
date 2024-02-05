@@ -46,6 +46,18 @@ https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1,TR | TRT 2 HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/113426
+
+#EXTINF:-1,TR: TRT 3 TURK HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/371858
+
+#EXTINF:-1,TR: TRT 4K
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/160629
+
+#EXTINF:-1,TR: TRT 5 HABER 
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/371855
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
@@ -110,6 +122,71 @@ https://rpn3.bozztv.com/ssh101/ssh101/ismayıllı_müzik/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MTV AZ
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
+
+#EXTINF:-1,#### TURK BELGESEL ####
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243193
+#EXTINF:-1,TR: TLC TV HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243194
+#EXTINF:-1,TR: BBC Earth HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243198
+#EXTINF:-1,TR: beIN IZ HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243201
+#EXTINF:-1,TR: DISCOVERY CHANNEL HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243202
+#EXTINF:-1,TR: DISCOVERY CHANNEL HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243203
+#EXTINF:-1,TR: DISCOVERY IDX
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243204
+#EXTINF:-1,TR: DISCOVERY IDX HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243205
+#EXTINF:-1,TR: ViASAT HiSTORY HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243206
+#EXTINF:-1,TR: VIASAT HISTORY HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243207
+#EXTINF:-1,TR: VIASAT NATURE HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/226120
+#EXTINF:-1,TR: History FHD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243209
+#EXTINF:-1,TR: DOCUBOX HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243210
+#EXTINF:-1,TR: TGRT BELGESEL
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243212
+#EXTINF:-1,TR: LOVE NATURE HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243213
+#EXTINF:-1,TR: DMAX HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243216
+#EXTINF:-1,TR: DMAX HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243217
+#EXTINF:-1,TR: National Geographic HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243218
+#EXTINF:-1,TR: National Geographic HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243219
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243221
+#EXTINF:-1,TR: TRT BELGESEL HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243222
+#EXTINF:-1,TR: TRT Belgesel HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243223
+#EXTINF:-1,TR: DISCOVERY SCIENCE FHD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/259820
+#EXTINF:-1,TR: TLC TV HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374324
+#EXTINF:-1,TR: Animal Planet HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374325
+#EXTINF:-1,TR: BBC Earth HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374326
+#EXTINF:-1,TR: beiN GURME HD+
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374327
+#EXTINF:-1,TR: TARIM TV
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374329
+#EXTINF:-1,TR: KÖY TV
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374330
+#EXTINF:-1,TR: ViASAT EXPLORER
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/416422
+#EXTINF:-1,TR: TARIH TV HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/421982
+
+***************SİNEMA**********************************************
 
 #EXTINF:0,SİNEMA PRIME  HD
 #EXTGRP:Sinema
