@@ -48,7 +48,7 @@ https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF: -1 group-title="Sinema", TeleON
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
 
 #EXTINF: -1 group-title="Sinema",MEDYA ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
