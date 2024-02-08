@@ -121,6 +121,12 @@ http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 13
+https://medya.kesintisizyayin.com:3301/hybrid/play.m3u8
+
 #EXTINF:-1,#### TURK BELGESEL ####
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243193
 #EXTINF:-1,TR: TLC TV HD+
@@ -4583,6 +4589,9 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", AYI TED TR DUB
 https://v2.photour.org/v/41r1a5r7bgk4/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", GENÇ RUH TR DUB
+https://puk-oxpc3-ot.vmrange.lat/hls/xqx2pltpmjokjiqbte4slpirxdfrtkteqz6lh55dlvxu6vkbpda22uleoe3a/index-v1-a1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ŞAKRAK JANGLENİN NOEL HİKAYESİ TR DUB
 https://rovideo.xyz/773/tt7736496.1080p.tr.m3u8
