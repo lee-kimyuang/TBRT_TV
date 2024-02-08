@@ -28,6 +28,21 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailtv/chunklist_w273808844
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI TV 
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
 
+#EXTINF:-1,ICEAKTOR ➠ Arnold Schwarzenegger
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424002
+
+#EXTINF:-1,ICEAKTOR ➠ Şafak Sezer
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424001
+
+#EXTINF:-1,ICESHOW ➠  Erşan Kuneri Sansürsüz
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423821
+
+#EXTINF:-1,ICESHOW  ➠ Güldür Güldür 
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423817
+
+#EXTINF:-1,ICESHOW  ➠ Çok Güzel Hareketler Bunlar
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423819
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yılmaz Güney TV
 https://ythls.armelin.one/channel/UCV9g7n7HsvCbkTOpChRqOLQ.m3u8
 
@@ -256,6 +271,73 @@ http://ahmet.ddns.me:8000/m6sefertribn/090818/68620
 http://ahmet.ddns.me:8000/m6sefertribn/090818/68621
 #EXTINF:-1 tvg-id="" tvg-name="TR:MAX WESTERN HD" tvg-logo="" group-title="Tr  SİNEMA SALONLAR ",TR:MAX WESTERN HD
 http://ahmet.ddns.me:8000/m6sefertribn/090818/68622
+
+*************************************************************
+#EXTINF:-1,ICEFILM ➠ Vizyon 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423793
+#EXTINF:-1,ICEFILM ➠ Vizyon 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423794
+#EXTINF:-1,ICEFILM ➠ Vizyon 3
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423795
+#EXTINF:-1,ICEFILM ➠ Vizyon 4
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423796
+#EXTINF:-1,ICEFILM ➠ Vizyon 5
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423797
+#EXTINF:-1,ICEFILM  ➠ Yerli Film 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423798
+#EXTINF:-1,ICEFILM ➠ Yerli  Film 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423799
+#EXTINF:-1,ICEFILM ➠ Yabancı Filmler
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423800
+#EXTINF:-1,ICEFILM  ➠ İCEBOX-2022
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423801
+#EXTINF:-1,ICEFILM ➠ Netfilix 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423802
+#EXTINF:-1,ICEFILM ➠ Netfilix 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423803
+#EXTINF:-1,ICEFILM ➠ Netfilix 3
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423804
+#EXTINF:-1,ICEFILM ➠Amazon Prime
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423805
+#EXTINF:-1,ICEFILM ➠ Disney Plus 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423806
+#EXTINF:-1,ICEFILM ➠ Disney Plus 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423807
+#EXTINF:-1,ICEFILM ➠ Marvel
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423808
+#EXTINF:-1,ICEFILM  ➠ Aksiyon 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423809
+#EXTINF:-1,ICEFILM  ➠  Aksiyon 1 HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423810
+#EXTINF:-1,ICEFILM ➠ Aksiyon 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423811
+#EXTINF:-1,ICEFILM ➠ Polisiye-Savaş
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423812
+#EXTINF:-1,ICEFILM ➠ Aile - Komedi
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423813
+#EXTINF:-1,ICEAKTOR ➠ Jason Statham
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424003
+#EXTINF:-1,ICEACTOR - Jack Rayn
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424004
+#EXTINF:-1,REDBOX AKSIYON 2
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423712
+#EXTINF:-1,REDBOX AKSIYON 3
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423713
+#EXTINF:-1,REDBOX ANIMASYON 1
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423714
+#EXTINF:-1,BOSS MOVIES 2 HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423659
+#EXTINF:-1,BOSS MOVIES 6 HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423663
+#EXTINF:-1,BOSS MOVIES 7 HD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423664
+#EXTINF:-1,REDBOX 3D
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423666
+#EXTINF:-1,REDBOX KORKU 3
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423683
+#EXTINF:-1,REDBOX MIX 4
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423687
+*************************************************************************
 #EXTINF:-1 tvg-id="" tvg-name="[TR] FIX CINEMA ACTION" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",[TR] FIX CINEMA ACTION
 http://4k.xyz103.link:8080/yavuzon2208/yV4ZYmfL9W/124802
 #EXTINF:-1 tvg-id="" tvg-name="[TR] FIX CINEMA BILIMKURGU" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",[TR] FIX CINEMA BILIMKURGU
