@@ -4,6 +4,9 @@
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", AYI TED TR DUB
 https://v2.photour.org/v/41r1a5r7bgk4/master.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", GENÇ RUH TR DUB
+https://puk-oxpc3-ot.vmrange.lat/hls/xqx2pltpmjokjiqbte4slpirxdfrtkteqz6lh55dlvxu6vkbpda22uleoe3a/index-v1-a1.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ŞAKRAK JANGLENİN NOEL HİKAYESİ TR DUB
 https://rovideo.xyz/773/tt7736496.1080p.tr.m3u8
 
