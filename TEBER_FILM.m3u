@@ -1,6 +1,15 @@
 #EXTM3U
 
 *************TEBER DUBLAJ FİLM****************************
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
+https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Dehşetin yüzü 2 TR DUB
+https://rovideo.xyz/101/tt10160976.720p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Ölümcül Çarpışma TR DUB
+https://rovideo.xyz/687/tt6879446.1080p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", AYI TED TR DUB
 https://v2.photour.org/v/41r1a5r7bgk4/master.m3u8
 
