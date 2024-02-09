@@ -36,20 +36,8 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailtv/chunklist_w273808844
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI TV 
 https://rpn3.bozztv.com/ssh101/ssh101/tebriz065/playlist.m3u8
 
-#EXTINF:-1,ICEAKTOR ➠ Arnold Schwarzenegger
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424002
-
-#EXTINF:-1,ICEAKTOR ➠ Şafak Sezer
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/424001
-
-#EXTINF:-1,ICESHOW ➠  Erşan Kuneri Sansürsüz
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423821
-
-#EXTINF:-1,ICESHOW  ➠ Güldür Güldür 
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423817
-
-#EXTINF:-1,ICESHOW  ➠ Çok Güzel Hareketler Bunlar
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423819
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MALKOÇ OĞLU TV 
+https://ythls.armelin.one/channel/UChpw5ERAQlYT7-BV2F9iqTQ.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yılmaz Güney TV
 https://ythls.armelin.one/channel/UCV9g7n7HsvCbkTOpChRqOLQ.m3u8
@@ -68,6 +56,12 @@ https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Şaban TV 4
 https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+
+#EXTINF:-1,ICESHOW ➠  Erşan Kuneri Sansürsüz
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423821
+
+#EXTINF:-1,ICESHOW  ➠ Güldür Güldür 
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/423817
 
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
