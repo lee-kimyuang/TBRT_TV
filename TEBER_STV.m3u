@@ -133,3 +133,68 @@ http://4k.xyz103.link:8080/yavuzon2208/yV4ZYmfL9W/56
 http://4k.xyz103.link:8080/yavuzon2208/yV4ZYmfL9W/57
 #EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR 2 HD H265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TR➤ SPORT",[TR] TRT SPOR 2 HD H265
 http://4k.xyz103.link:8080/yavuzon2208/yV4ZYmfL9W/19805
+
+#EXTINF:222 group-title="SPOR",TRT SPOR
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:223 group-title="SPOR",TASKRÜT SPORTS HABER
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:224 group-title="SPOR",A SPOR
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:225 group-title="SPOR",EUROSPORT 1
+https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+#EXTINF:226 group-title="SPOR",EUROSPORT 2
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
+#EXTINF:228 group-title="SPOR",TRACE SPORT STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:230 group-title="SPOR",FIGHTSCREEN
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702287
+#EXTINF:232 group-title="SÜPER LİG",TASKRÜT SPORTS 1
+https://corsproxy.org/?https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+#EXTINF:233 group-title="SÜPER LİG",TASKRÜT SPORTS 2
+https://corsproxy.org/?https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
+#EXTINF:234 group-title="SÜPER LİG",TASKRÜT SPORTS 3
+https://corsproxy.org/?https://odin.7545c95540dc.shop/3/chunk_hd.m3u8
+#EXTINF:235 group-title="SÜPER LİG",TASKRÜT SPORTS 4
+https://corsproxy.org/?https://odin.7545c95540dc.shop/4/chunk_hd.m3u8
+#EXTINF:236 group-title="SÜPER LİG",TASKRÜT SPORTS 5
+https://corsproxy.org/?https://odin.7545c95540dc.shop/5/chunk_hd.m3u8
+#EXTINF:237 group-title="SÜPER LİG",TASKRÜT SPORTS MAX 1
+https://corsproxy.org/?https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
+#EXTINF:238 group-title="SÜPER LİG",TASKRÜT SPORTS MAX 2
+https://corsproxy.org/?https://odin.7545c95540dc.shop/8/chunk_hd.m3u8
+#EXTINF:240 group-title="SPOR",S SPORT
+https://corsproxy.org/?https://odin.7545c95540dc.shop/13/chunk_hd.m3u8
+#EXTINF:241 group-title="SPOR",S SPORT 2
+https://corsproxy.org/?https://odin.7545c95540dc.shop/14/chunk_hd.m3u8
+#EXTINF:242 group-title="SPOR",NBA TV
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36
+#EXTINF:243 group-title="SPOR",EDGE SPORT
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702291
+#EXTINF:244 group-title="SPOR",TRT SPOR YILDIZ
+http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:245 group-title="SPOR",SPORTS TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:246 group-title="SPOR",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:247 group-title="SPOR",GS TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:248 group-title="SPOR",T.A.Y TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:249 group-title="SPOR",TJK TV
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:250 group-title="SPOR",BYHORSES TV
+http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+#EXTINF:251 group-title="SPOR",SPORSMART
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/295
+#EXTINF:252 group-title="SPOR",SPORSMART 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/641918
+#EXTINF:253 group-title="SPOR",TİVİBU SPOR 1
+https://corsproxy.org/?https://odin.7545c95540dc.shop/9/chunk_hd.m3u8
+#EXTINF:254 group-title="SPOR",TİVİBU SPOR 2
+https://corsproxy.org/?https://odin.7545c95540dc.shop/10/chunk_hd.m3u8
+#EXTINF:255 group-title="SPOR",TİVİBU SPOR 3
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/437
+#EXTINF:256 group-title="SPOR",TİVİBU SPOR 4
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/664524
+#EXTINF:257 group-title="SPOR",EXXEN SPOR 1
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/418297
