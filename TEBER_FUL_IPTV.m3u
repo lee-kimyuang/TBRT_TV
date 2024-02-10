@@ -206,10 +206,53 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 13
 https://medya.kesintisizyayin.com:3301/hybrid/play.m3u8
 
+************ÇOCUK********************************
+
+#EXTINF:441 group-title="ÇOCUK",ÇOCUKSMART
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/455
+#EXTINF:442 group-title="ÇOCUK",CARTOONITO
+https://boomerang.blutv.com/blutv_boomerang/live.m3u8
+#EXTINF:443 group-title="ÇOCUK",BBC CBEEBIES
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/346
+#EXTINF:444 group-title="ÇOCUK",TRT ÇOCUK
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+#EXTINF:445 group-title="ÇOCUK",minikaCOCUK
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:446 group-title="ÇOCUK",minikaGO
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:447 group-title="ÇOCUK",TRT DİYANET ÇOCUK
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:448 group-title="ÇOCUK",NICKELODEON
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/125
+#EXTINF:449 group-title="ÇOCUK",NICKTOONS
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702536
+#EXTINF:450 group-title="ÇOCUK",NICK JR
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/133
+#EXTINF:455 group-title="ÇOCUK",BABY TV
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/348
+#EXTINF:456 group-title="ÇOCUK",DISNEY JUNIOR
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/345
+#EXTINF:457 group-title="ÇOCUK",CARTOON NETWORK
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:458 group-title="ÇOCUK",MOONBUG
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702554
+#EXTINF:459 group-title="ÇOCUK",DUCK TV
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/122
+
 #EXTINF:-1,#### TURK BELGESEL ####
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243193
 #EXTINF:-1,TR: TLC TV HD+
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243194
+#EXTINF:-1,TR: TARIH TV HD
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/664565
+#EXTINF:119 group-title="BELGESEL",YABAN TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+#EXTINF:120 group-title="BELGESEL",DOCUSCREEN
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702518
+#EXTINF:121 group-title="BELGESEL",BBC EARTH
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/138
+#EXTINF:122 group-title="BELGESEL",HABİTAT TV
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/34068
 #EXTINF:-1,TR: BBC Earth HD+
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/243198
 #EXTINF:-1,TR: beIN IZ HD+
@@ -266,11 +309,91 @@ http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374329
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/374330
 #EXTINF:-1,TR: ViASAT EXPLORER
 http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/416422
-#EXTINF:-1,TR: TARIH TV HD
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/421982
+*********************************TURK BELGESEL2**********************************
+#EXTINF:-1 tvg-id="" tvg-name="*****TURK BELGESEL*****" tvg-logo="" group-title="Tr BELGESEL",*****TURK BELGESEL*****
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68494
+#EXTINF:-1 tvg-id="" tvg-name="TR:IDX HD" tvg-logo="" group-title="Tr BELGESEL",TR:IDX HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68495
+#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="" group-title="Tr BELGESEL",TR:DMAX HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68496
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN IZ HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN IZ HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68497
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN GURME HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN GURME HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68498
+#EXTINF:-1 tvg-id="" tvg-name="TR:BBC EARTH HD" tvg-logo="" group-title="Tr BELGESEL",TR:BBC EARTH HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68499
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO HD" tvg-logo="http://elif1.ddns.me:8000/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="Tr BELGESEL",TR:NAT GEO HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68500
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO WILD" tvg-logo="http://elif1.ddns.me:8000/images/e042f47ec5574e9f48d43da88c84b59c.png" group-title="Tr BELGESEL",TR:NAT GEO WILD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68501
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY CHANNEL" tvg-logo="http://elif1.ddns.me:8000/images/151e9cec211e53893487ae3f60ba19fe.png" group-title="Tr BELGESEL",TR:DISCOVERY CHANNEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68502
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY SCIENCE" tvg-logo="http://elif1.ddns.me:8000/images/4a2d65b6968ed163175da80c3c9474d3.png" group-title="Tr BELGESEL",TR:DISCOVERY SCIENCE
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68503
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-logo="" group-title="Tr BELGESEL",Viasat Explore
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68504
+#EXTINF:-1 tvg-id="" tvg-name="TR:HISTORY CHANNEL" tvg-logo="http://cmo1.ddns.me:8000/images/3bcb07eebe2540a1f96aef3a5b50b79c.png" group-title="Tr BELGESEL",TR:HISTORY CHANNEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68505
+#EXTINF:-1 tvg-id="" tvg-name="TR:VIASAT NATURE/HISTORY HD" tvg-logo="" group-title="Tr BELGESEL",TR:VIASAT NATURE/HISTORY HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68506
+#EXTINF:-1 tvg-id="" tvg-name="TR:LOVE NATURE HD" tvg-logo="http://cmo1.ddns.me:8000/images/44b51ef4f48cbfcd2c182351b32000d5.png" group-title="Tr BELGESEL",TR:LOVE NATURE HD
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68508
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cay tv" tvg-logo="" group-title="Tr BELGESEL",TR:Cay tv
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68509
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tarim Tv" tvg-logo="" group-title="Tr BELGESEL",TR:Tarim Tv
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68510
+#EXTINF:-1 tvg-id="" tvg-name="TR:YABAN TV" tvg-logo="http://slm2.ddns.me:8000/images/9cdb6badc9ff5b70d904a2425fc9d4ec.png" group-title="Tr BELGESEL",TR:YABAN TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68511
+#EXTINF:-1 tvg-id="" tvg-name="TR:K TV" tvg-logo="" group-title="Tr BELGESEL",TR:K TV
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68512
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TRT BELGESEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68513
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TGRT BELGESEL
+http://ahmet.ddns.me:8000/m6sefertribn/090818/68514
 
-***************SİNEMA**********************************************
+*********TV*ALMS*****SİNEMA**********************
+#EXTINF:4 group-title="SİNEMA",XEN TV
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/721510
+#EXTINF:5 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/440
+#EXTINF:6 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/441
+#EXTINF:7 group-title="SİNEMA",TASKRÜT MOVIES TÜRK
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/169
+#EXTINF:8 group-title="SİNEMA",TASKRÜT MOVIES STARS
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/444
+#EXTINF:9 group-title="SİNEMA",MOVIESMART CLASSIC
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/453
+#EXTINF:10 group-title="SİNEMA",MOVIESMART TÜRK
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/450
+#EXTINF:11 group-title="SİNEMA",SİNEMA TV
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/457425
+#EXTINF:12 group-title="SİNEMA",SİNEMA 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/457
+#EXTINF:13 group-title="SİNEMA",SİNEMA AKSİYON
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/460
+#EXTINF:14 group-title="SİNEMA",SİNEMA AKSİYON 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/461
+#EXTINF:15 group-title="SİNEMA",SİNEMA YERLİ
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/458
+#EXTINF:16 group-title="SİNEMA",SİNEMA YERLİ 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/459
+#EXTINF:17 group-title="SİNEMA",SİNEMA AİLE
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/464
+#EXTINF:18 group-title="SİNEMA",SİNEMA AİLE 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/465
+#EXTINF:19 group-title="SİNEMA",SİNEMA 1001
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/466
+#EXTINF:20 group-title="SİNEMA",SİNEMA 1002
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/467
+#EXTINF:21 group-title="SİNEMA",SİNEMA KOMEDİ
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/462
+#EXTINF:22 group-title="SİNEMA",SİNEMA KOMEDİ 2
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/463
+#EXTINF:23 group-title="SİNEMA",FILMBOX+
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702289
 
+*************************SİNEMA PRIME****************************************
 #EXTINF:0,SİNEMA PRIME  HD
 #EXTGRP:Sinema
 http://telekom69.site:2086/envermnh/ax2DTj2tRQ7V/87937
@@ -1205,47 +1328,50 @@ http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4746317e-55e6-4af1-9995-d3becea611e6.png" group-title="Dizi-Youtube",Muhteşem Yüzyıl
 http://stream.tvcdn.net/dizi-youtube/muhtesem-yuzyil.m3u8
 
-*********************************TURK BELGESEL**********************************
-#EXTINF:-1 tvg-id="" tvg-name="*****TURK BELGESEL*****" tvg-logo="" group-title="Tr BELGESEL",*****TURK BELGESEL*****
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68494
-#EXTINF:-1 tvg-id="" tvg-name="TR:IDX HD" tvg-logo="" group-title="Tr BELGESEL",TR:IDX HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68495
-#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="" group-title="Tr BELGESEL",TR:DMAX HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68496
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN IZ HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN IZ HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68497
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN GURME HD" tvg-logo="" group-title="Tr BELGESEL",TR:BEIN GURME HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68498
-#EXTINF:-1 tvg-id="" tvg-name="TR:BBC EARTH HD" tvg-logo="" group-title="Tr BELGESEL",TR:BBC EARTH HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68499
-#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO HD" tvg-logo="http://elif1.ddns.me:8000/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="Tr BELGESEL",TR:NAT GEO HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68500
-#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEO WILD" tvg-logo="http://elif1.ddns.me:8000/images/e042f47ec5574e9f48d43da88c84b59c.png" group-title="Tr BELGESEL",TR:NAT GEO WILD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68501
-#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY CHANNEL" tvg-logo="http://elif1.ddns.me:8000/images/151e9cec211e53893487ae3f60ba19fe.png" group-title="Tr BELGESEL",TR:DISCOVERY CHANNEL
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68502
-#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY SCIENCE" tvg-logo="http://elif1.ddns.me:8000/images/4a2d65b6968ed163175da80c3c9474d3.png" group-title="Tr BELGESEL",TR:DISCOVERY SCIENCE
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68503
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-logo="" group-title="Tr BELGESEL",Viasat Explore
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68504
-#EXTINF:-1 tvg-id="" tvg-name="TR:HISTORY CHANNEL" tvg-logo="http://cmo1.ddns.me:8000/images/3bcb07eebe2540a1f96aef3a5b50b79c.png" group-title="Tr BELGESEL",TR:HISTORY CHANNEL
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68505
-#EXTINF:-1 tvg-id="" tvg-name="TR:VIASAT NATURE/HISTORY HD" tvg-logo="" group-title="Tr BELGESEL",TR:VIASAT NATURE/HISTORY HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68506
-#EXTINF:-1 tvg-id="" tvg-name="TR:LOVE NATURE HD" tvg-logo="http://cmo1.ddns.me:8000/images/44b51ef4f48cbfcd2c182351b32000d5.png" group-title="Tr BELGESEL",TR:LOVE NATURE HD
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68508
-#EXTINF:-1 tvg-id="" tvg-name="TR:Cay tv" tvg-logo="" group-title="Tr BELGESEL",TR:Cay tv
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68509
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tarim Tv" tvg-logo="" group-title="Tr BELGESEL",TR:Tarim Tv
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68510
-#EXTINF:-1 tvg-id="" tvg-name="TR:YABAN TV" tvg-logo="http://slm2.ddns.me:8000/images/9cdb6badc9ff5b70d904a2425fc9d4ec.png" group-title="Tr BELGESEL",TR:YABAN TV
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68511
-#EXTINF:-1 tvg-id="" tvg-name="TR:K TV" tvg-logo="" group-title="Tr BELGESEL",TR:K TV
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68512
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TRT BELGESEL
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68513
-#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT BELGESEL" tvg-logo="" group-title="Tr BELGESEL",TR:TGRT BELGESEL
-http://ahmet.ddns.me:8000/m6sefertribn/090818/68514
+#EXTINF:661 group-title="MÜZİK",MCM TOP
+http://cixxrizley.xyz:80/live/ahmet3/hewgttA9Du/139672.ts
+#EXTINF:662 group-title="MÜZİK",MTV 00s
+http://cixxrizley.xyz:80/live/ahmet3/hewgttA9Du/139673.ts
+#EXTINF:663 group-title="MÜZİK",MTV LIVE
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/92124
+#EXTINF:664 group-title="MÜZİK",MTV HITS
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/5771
+#EXTINF:665 group-title="MÜZİK",KRAL POP TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:666 group-title="MÜZİK",TRT MÜZİK
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+#EXTINF:667 group-title="MÜZİK",DREAM TÜRK
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:668 group-title="MÜZİK",DREAM TV
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702511
+#EXTINF:669 group-title="MÜZİK",NUMBER1 TV
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:670 group-title="MÜZİK",NUMBER1 TURK
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:671 group-title="MÜZİK",POWER TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:672 group-title="MÜZİK",POWERTÜRK TV
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:673 group-title="MÜZİK",TATLISES
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:674 group-title="MÜZİK",TRACE URBAN
+http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:675 group-title="MÜZİK",NUMBER1 DANCE
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:676 group-title="MÜZİK",NUMBER1 AŞK
+http://stream.tvcdn.net/muzik/number-1-ask.m3u8
+#EXTINF:677 group-title="MÜZİK",NUMBER1 DAMAR
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:678 group-title="MÜZİK",MİLYON TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:701 group-title="TÜRKÜ",EKİNTÜRK TV
+http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
+#EXTINF:702 group-title="TÜRKÜ",ANADOLU DERNEK TV
+http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
+#EXTINF:703 group-title="TÜRKÜ",TEMPO TV
+http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+#EXTINF:704 group-title="TÜRKÜ",YILDIZ EN
+http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63547
 
 ************BİZİM** Belgesel.tr **************************************
 
