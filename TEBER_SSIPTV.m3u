@@ -141,6 +141,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
 
+#EXTINF:-1,TR | TV 8.5 FHD
+http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/113433
+
 #EXTINF: -1 group-title="Ulusal", TV8.5
 https://tls.tc/fLdfN
 
