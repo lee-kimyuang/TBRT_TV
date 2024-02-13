@@ -147,8 +147,8 @@ http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/113433
 #EXTINF: -1 group-title="Ulusal", TV8.5
 https://tls.tc/fLdfN
 
-#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",NOW ᵁᴴᴰ⁺ 
-https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
+ #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",NOW ᵁᴴᴰ⁺ 
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
