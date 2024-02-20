@@ -4690,6 +4690,9 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 *************TEBER DUBLAJ FİLM****************************
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük kırmızı köpek TR DUB
+https://rovideo.xyz/239/tt2397461.480p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
 https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
 
