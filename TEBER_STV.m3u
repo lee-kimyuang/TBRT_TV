@@ -24,13 +24,13 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/256707
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/256708
 #EXTINF:-1 tvg-id="" tvg-name="[TR] FISTIK SPORTS 8 FHD" tvg-logo="https://imagizer.imageshack.com/img923/56/VteZLR.png" group-title="TR | FISTIK SPOR ⚽",[TR] FISTIK SPORTS 8 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/276700
-#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK SARAN CEVİZ SPOR S ✪✪✪✪✪" tvg-logo="" group-title="TR | CEVİZ SPOR  ⚽",✪✪✪✪✪ TURK SARAN CEVİZ SPOR S ✪✪✪✪✪
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ CEVİZ SPOR S ✪✪✪✪✪" tvg-logo="" group-title="TR | CEVİZ SPOR  ⚽",✪✪✪✪✪  CEVİZ SPOR S ✪✪✪✪✪
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/118667
 #EXTINF:-1 tvg-id="" tvg-name="TR| CEVİZ SPOR 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR | CEVİZ SPOR  ⚽",TR| CEVİZ SPOR 1 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/277908
-#EXTINF:-1 tvg-id="" tvg-name="TR| S SPOR HD +1" tvg-logo="https://imagizer.imageshack.com/img922/1651/nxJ95V.png" group-title="TR | CEVİZ SPOR  ⚽",TR| S SPOR HD +1
+#EXTINF:-1 tvg-id="" tvg-name="TR| CEVİZ SPOR HD +1" tvg-logo="https://imagizer.imageshack.com/img922/1651/nxJ95V.png" group-title="TR | CEVİZ SPOR  ⚽",TR| CEVİZ SPOR HD +1
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/277898
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR| CEVİZ SPOR 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="TR | CEVİZ SPOR  ⚽",TR| CEVİZ SPOR 2 HD
+#EXTINF:-1 tvg-id="CEVİZ SPOR2.tr" tvg-name="TR| CEVİZ SPOR 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="TR | CEVİZ SPOR  ⚽",TR| CEVİZ SPOR 2 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/277909
 #EXTINF:-1 tvg-id="" tvg-name="TR | CEVİZ SPOR PLUS 2 (Mac Zamanı)" tvg-logo="" group-title="TR | CEVİZ SPOR  ⚽",TR | CEVİZ SPOR PLUS 2 (Mac Zamanı)
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/392773
@@ -46,19 +46,19 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/116517
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/116518
 #EXTINF:-1 tvg-id="" tvg-name="TR:CEVİZ SPOR+3 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img922/6571/DbZ32j.png" group-title="TR | CEVİZ SPOR  ⚽",TR:CEVİZ SPOR+3 Mac Saati
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/116519
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR:CEVİZ SPOR+4 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/9936/9OFIu4.png" group-title="TR | CEVİZ SPOR  ⚽",TR:CEVİZ SPOR+4 Mac Saati
+#EXTINF:-1 tvg-id="CEVİZ SPOR.tr" tvg-name="TR:CEVİZ SPOR+4 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/9936/9OFIu4.png" group-title="TR | CEVİZ SPOR  ⚽",TR:CEVİZ SPOR+4 Mac Saati
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/116520
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR:CEVİZ SPOR+5 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/1665/66YDyr.png" group-title="TR | CEVİZ SPOR  ⚽",TR:CEVİZ SPOR+5 Mac Saati
+#EXTINF:-1 tvg-id="CEVİZ SPOR.tr" tvg-name="TR:CEVİZ SPOR+5 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/1665/66YDyr.png" group-title="TR | CEVİZ SPOR  ⚽",TR:CEVİZ SPOR+5 Mac Saati
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/116521
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: CEVİZ SPOR  + 6 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/8083/AzUJ2W.png" group-title="TR | CEVİZ SPOR  ⚽",TR: CEVİZ SPORT + 6 Mac Saati
+#EXTINF:-1 tvg-id="CEVİZ SPOR.tr" tvg-name="TR: CEVİZ SPOR  + 6 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/8083/AzUJ2W.png" group-title="TR | CEVİZ SPOR  ⚽",TR: CEVİZ SPORT + 6 Mac Saati
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/287082
 #EXTINF:-1 tvg-id="" tvg-name="FISTIK SPORTS 3 (Mac Zamani Acik)" tvg-logo="https://imagizer.imageshack.com/img923/7743/df2lvi.png" group-title="TR | FISTIK SPOR ⚽",FISTIK PORTS 3 (Mac Zamani Acik)
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/278014
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SPOR FINDIK SPOR  FHD" tvg-logo="http://logo.superbtv.online/Logo/TR/SARAN.S.SPORTS/FHD/SPOR.FINDIK SPOR .png" group-title="TR | SPOR ⚽",TR | SPOR FINDIK SPOR  FHD
+#EXTINF:-1 tvg-id="FINDIKspor.tr" tvg-name="TR | SPOR FINDIK.S. SPOR  FHD" tvg-logo="http://logo.superbtv.online/Logo/TR/FINDIK.S.SPORTS/FHD/SPOR.FINDIK SPOR .png" group-title="TR | SPOR ⚽",TR | SPOR FINDIK SPOR  FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/76320
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SPOR FINDIK SPOR  HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.FINDIK SPOR .png" group-title="TR | SPOR ⚽",TR | SPOR FINDIK SPOR  HD
+#EXTINF:-1 tvg-id="FINDIKspor.tr" tvg-name="TR | SPOR FINDIK SPOR  HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/FINDIK.S.SPORTS/HD/SPOR.FINDIK SPOR .png" group-title="TR | SPOR ⚽",TR | SPOR FINDIK SPOR  HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/76321
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR FINDIK SPOR  2 [](maçta açık,)" tvg-logo="" group-title="TR | SPOR ⚽",TR: SPOR FINDIK SPOR  2 [](maçta açık,)
+#EXTINF:-1 tvg-id="sporFINDIK.tr" tvg-name="TR: SPOR FINDIK SPOR  2 [](maçta açık,)" tvg-logo="" group-title="TR | SPOR ⚽",TR: SPOR FINDIK SPOR  2 [](maçta açık,)
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/277011
 #EXTINF:-1 tvg-id="" tvg-name="TR | LEBLEBİ SPOR SPOR 4 HD" tvg-logo="https://imagizer.imageshack.com/img924/5684/G3irix.png" group-title="TR | SPOR ⚽",TR | LEBLEBİ SPOR SPOR 4 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/95859
@@ -98,13 +98,13 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409368
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409371
 #EXTINF:-1 tvg-id="" tvg-name="LEBLEBİ SPOR  2 FHD" tvg-logo="" group-title="TR | SPOR ⚽",LEBLEBİ SPOR  2 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409372
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR | SPOR ⚽",TR: TiViBUSPOR 2 HD+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR | SPOR ⚽",TR: LEBLEBİ SPOR 2 HD+
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409362
 #EXTINF:-1 tvg-id="" tvg-name="LEBLEBİ SPOR  2 HD" tvg-logo="" group-title="TR | SPOR ⚽",LEBLEBİ SPOR  2 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409373
 #EXTINF:-1 tvg-id="" tvg-name="TR: LEBLEBİ SPOR SPOR 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Tivibu_SPOR_2_logo.jpg" group-title="TR | SPOR ⚽",TR: LEBLEBİ SPOR SPOR 2 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409366
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR | SPOR ⚽",TR: TiViBUSPOR 3 HD+
+#EXTINF:-1 tvg-id="" tvg-name="TR: LEBLEBİ SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR | SPOR ⚽",TR: LEBLEBİ SPOR 3 HD+
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409363
 #EXTINF:-1 tvg-id="" tvg-name="LEBLEBİ SPOR  3 HD" tvg-logo="" group-title="TR | SPOR ⚽",LEBLEBİ SPOR  3 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409375
@@ -136,35 +136,35 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/412178
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/421978
 #EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="TR | SPOR ⚽",TR: SPORTS TV HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/421979
-#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ Bein Sport ✪✪✪✪✪" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",✪✪✪✪✪ Bein Sport ✪✪✪✪✪
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ BADEM Sport ✪✪✪✪✪" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",✪✪✪✪✪ BADEM Sport ✪✪✪✪✪
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/412957
-#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM SPOR 1 SD" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPOR 1 SD
+#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM SPOR 1 SD" tvg-logo="https://static.epg.best/tr/BADEM Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPOR 1 SD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428026
 #EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM SPOR 1 HD" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPOR 1 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428027
-#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BEIN-SPORTS 1 FHD" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BEIN-SPORTS 1 FHD
+#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM-SPORTS 1 FHD" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM-SPORTS 1 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428028
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 HD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | b**N SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPORTS 1 HD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPORTS 1 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399652
 #EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="TR | BADEM   SPORT 1 HD*" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT 1 HD*
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/78345
 #EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM SPOR 1 FHD¹ 50 FPS" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPOR 1 FHD¹ 50 FPS
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428030
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | b**N SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPORTS 1 FHD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPORTS 1 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399650
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD HEVC" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | b**N SPORTS 1 FHD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPORTS 1 FHD HEVC" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPORTS 1 FHD HEVC
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399649
 #EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPOR 1 FHD¹ 50 FPS" tvg-logo="https://assets.BADEM  .com/mena/sites/3/2015/06/BADEM  _SPORTS_FTA_DIGITAL_Mono.png" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPOR 1 FHD¹ 50 FPS
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/409462
 #EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPOR 1 [ 4K ]" tvg-logo="http://iptv.blackkill.org:5487/chmediaswe@FGDkh/suER7EuR1huxgWJ/11104" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPOR 1 [ 4K ]
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/411955
-#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BeIN SPORTS 1 4K HECV" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BeIN SPORTS 1 4K HECV
+#EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BeIN SPORTS 1 4K HECV" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPORTS 1 4K HECV
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428029
 #EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="[TR] BADEM SPOR 1 4K UYDU" tvg-logo="https://static.epg.best/tr/BADEM  Sports1.tr.png" group-title="TR | BADEM   SPORT ⚽",[TR] BADEM SPOR 1 4K UYDU
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/428031
 #EXTINF:-1 tvg-id="" tvg-name="TR | BADEM   SPORT 1 HD**" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT 1 HD**
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/350195
-#EXTINF:-1 tvg-id="" tvg-name="TR | BADEM   SPORT HABER FHD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT HABER FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR | BADEM   SPORT HABER FHD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",TR | BADEM SPORT NEWS FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/412301
 #EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPOR 2 SD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPOR 2 SD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399656
@@ -184,13 +184,13 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399662
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399661
 #EXTINF:-1 tvg-id="" tvg-name="| TR | BADEM SPOR 4 FHD" tvg-logo="" group-title="TR | BADEM   SPORT ⚽",| TR | BADEM SPOR 4 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/399660
-#EXTINF:-1 tvg-id="BADEM  sportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BADEM  _Sports_MAX_2_TR_logo.png" group-title="TR | BADEM   SPORT ⚽",TR: b**N SP0RT MAX 2 HD+
+#EXTINF:-1 tvg-id="BADEM  sportsmax2.tr" tvg-name="TR: BADEM SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BADEM  _Sports_MAX_2_TR_logo.png" group-title="TR | BADEM   SPORT ⚽",TR: BADEM SP0RT MAX 2 HD+
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/408714
-#EXTINF:-1 tvg-id="BADEM  sportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BADEM  _Sports_MAX_2_TR_logo.png" group-title="TR | BADEM   SPORT ⚽",TR: b**N SP0RT MAX 2 HD
+#EXTINF:-1 tvg-id="BADEM  sportsmax2.tr" tvg-name="TR: BADEM SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BADEM  _Sports_MAX_2_TR_logo.png" group-title="TR | BADEM   SPORT ⚽",TR: BADEM SP0RT MAX 2 HD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/408715
-#EXTINF:-1 tvg-id="" tvg-name="TR | BADEM   SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)
+#EXTINF:-1 tvg-id="" tvg-name="TR | BADEM SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/121354
-#EXTINF:-1 tvg-id="BADEM  sports2.tr" tvg-name="TR | BADEM   SPORT 2 HD**" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT 2 HD**
+#EXTINF:-1 tvg-id="BADEM  sports2.tr" tvg-name="TR | BADEM SPORT 2 HD**" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM SPORT 2 HD**
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/259317
 #EXTINF:-1 tvg-id="BADEM  sports2.tr" tvg-name="TR | BADEM   SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | BADEM   SPORT ⚽",TR | BADEM   SPORT 2 FHD
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/259318
@@ -202,7 +202,7 @@ http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/78352
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/285817
 #EXTINF:-1 tvg-id="BADEM  sports1.tr" tvg-name="TR: BADEM   SPORT 1 FEED" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | BADEM   SPORT ⚽",TR: BADEM   SPORT 1 FEED
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/248301
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N CNNECT 2 maczamani" tvg-logo="https://assets.BADEM  .com/mena/sites/3/2015/06/BADEM  _SPORTS_FTA_DIGITAL_Mono.png" group-title="TR | BADEM   SPORT ⚽",TR: b**N CNNECT 2 maczamani
+#EXTINF:-1 tvg-id="" tvg-name="TR: BADEM CNNECT 2 maczamani" tvg-logo="https://assets.BADEM  .com/mena/sites/3/2015/06/BADEM  _SPORTS_FTA_DIGITAL_Mono.png" group-title="TR | BADEM   SPORT ⚽",TR: BADEM CNNECT 2 maczamani
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/408717
 
 **************GADDAR SPOR TV**************************************
