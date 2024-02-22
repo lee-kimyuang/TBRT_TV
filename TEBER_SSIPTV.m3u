@@ -335,6 +335,147 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 
+******************ünüversal sinema***************
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL SONVIZYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL SONVIZYON
+http://130499.performservers.nz:80/saban10/sbn202040/222407
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL CHOICE" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL CHOICE
+http://130499.performservers.nz:80/saban10/sbn202040/223731
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KEMAL SUNAL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KEMAL SUNAL
+http://130499.performservers.nz:80/saban10/sbn202040/13741
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL FANTEZI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL FANTEZI
+http://130499.performservers.nz:80/saban10/sbn202040/13734
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BILIMKURGU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL BILIMKURGU
+http://130499.performservers.nz:80/saban10/sbn202040/13736
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DRAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL DRAM
+http://130499.performservers.nz:80/saban10/sbn202040/13733
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL WESTERN" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL WESTERN
+http://130499.performservers.nz:80/saban10/sbn202040/56020
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL TURK
+http://130499.performservers.nz:80/saban10/sbn202040/13732
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL TURK KOMEDI
+http://130499.performservers.nz:80/saban10/sbn202040/59396
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL YESILCAM
+http://130499.performservers.nz:80/saban10/sbn202040/13731
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL YESILCAM KOMEDI
+http://130499.performservers.nz:80/saban10/sbn202040/64002
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL AKSIYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL AKSIYON
+http://130499.performservers.nz:80/saban10/sbn202040/13739
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BEST PICTURES" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL BEST PICTURES
+http://130499.performservers.nz:80/saban10/sbn202040/64149
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KORKU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KORKU
+http://130499.performservers.nz:80/saban10/sbn202040/13737
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KOMEDI
+http://130499.performservers.nz:80/saban10/sbn202040/13735
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office INFO" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office INFO
+http://130499.performservers.nz:80/saban10/sbn202040/250
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 1" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 1
+http://130499.performservers.nz:80/saban10/sbn202040/249
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 2" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 2
+http://130499.performservers.nz:80/saban10/sbn202040/248
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 3" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 3
+http://130499.performservers.nz:80/saban10/sbn202040/247
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 4" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 4
+http://130499.performservers.nz:80/saban10/sbn202040/246
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 5" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 5
+http://130499.performservers.nz:80/saban10/sbn202040/245
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 6" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 6
+http://130499.performservers.nz:80/saban10/sbn202040/244
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 7" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 7
+http://130499.performservers.nz:80/saban10/sbn202040/243
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 8" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 8
+http://130499.performservers.nz:80/saban10/sbn202040/242
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 9" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 9
+http://130499.performservers.nz:80/saban10/sbn202040/241
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Box Office 10" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: Universal Box Office 10
+http://130499.performservers.nz:80/saban10/sbn202040/240
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios INFO" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios INFO
+http://130499.performservers.nz:80/saban10/sbn202040/20037
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 1" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 1
+http://130499.performservers.nz:80/saban10/sbn202040/20036
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 2" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 2
+http://130499.performservers.nz:80/saban10/sbn202040/20035
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 3" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 3
+http://130499.performservers.nz:80/saban10/sbn202040/20034
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 4" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 4
+http://130499.performservers.nz:80/saban10/sbn202040/20033
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 5" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 5
+http://130499.performservers.nz:80/saban10/sbn202040/20032
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 6" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 6
+http://130499.performservers.nz:80/saban10/sbn202040/20031
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 7" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 7
+http://130499.performservers.nz:80/saban10/sbn202040/20030
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 8" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 8
+http://130499.performservers.nz:80/saban10/sbn202040/20029
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 9" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 9
+http://130499.performservers.nz:80/saban10/sbn202040/20028
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 10" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 10
+http://130499.performservers.nz:80/saban10/sbn202040/20027
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 1" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
+http://130499.performservers.nz:80/saban10/sbn202040/160
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 2" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
+http://130499.performservers.nz:80/saban10/sbn202040/159
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 3" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 3
+http://130499.performservers.nz:80/saban10/sbn202040/158
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 4" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 4
+http://130499.performservers.nz:80/saban10/sbn202040/157
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 5" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 5
+http://130499.performservers.nz:80/saban10/sbn202040/156
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 6" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 6
+http://130499.performservers.nz:80/saban10/sbn202040/155
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 7" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 7
+http://130499.performservers.nz:80/saban10/sbn202040/154
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 8" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 8
+http://130499.performservers.nz:80/saban10/sbn202040/230514
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 1
+http://130499.performservers.nz:80/saban10/sbn202040/115706
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 2
+http://130499.performservers.nz:80/saban10/sbn202040/115707
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 3
+http://130499.performservers.nz:80/saban10/sbn202040/115708
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 1" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 1
+http://130499.performservers.nz:80/saban10/sbn202040/115709
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 2" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 2
+http://130499.performservers.nz:80/saban10/sbn202040/115710
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 3" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 3
+http://130499.performservers.nz:80/saban10/sbn202040/115711
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 4" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 4
+http://130499.performservers.nz:80/saban10/sbn202040/115712
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 5" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 5
+http://130499.performservers.nz:80/saban10/sbn202040/115713
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 6" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 6
+http://130499.performservers.nz:80/saban10/sbn202040/115714
+#EXTINF:0 user-agent="Firefox" tvg-id="SinemaTV" tvg-name="TR: SINEMA TV" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/60b3b8e4b34f7d0001baf2e2/picture" group-title="TR-SINEMA",TR: SINEMA TV
+http://130499.performservers.nz:80/saban10/sbn202040/163
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv 2" tvg-name="TR: SINEMA TV 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=169" group-title="TR-SINEMA",TR: SINEMA TV 2
+http://130499.performservers.nz:80/saban10/sbn202040/103139
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Komedi" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="https://img.dsmartgo.com.tr//content/w/9a/22899/Thumbnail.png?v=637451113872971832" group-title="TR-SINEMA",TR: SINEMA TV KOMEDI
+http://130499.performservers.nz:80/saban10/sbn202040/168
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Komedi 2" tvg-name="TR: SINEMA TV KOMEDI 2" tvg-logo="https://img.dsmartgo.com.tr//content/o/oG/22900/Thumbnail.png?v=637451114172995678" group-title="TR-SINEMA",TR: SINEMA TV KOMEDI 2
+http://130499.performservers.nz:80/saban10/sbn202040/103143
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Aksiyon" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="TR-SINEMA",TR: SINEMA TV AKSIYON
+http://130499.performservers.nz:80/saban10/sbn202040/167
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Aksiyon 2" tvg-name="TR: SINEMA TV AKSIYON 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="TR-SINEMA",TR: SINEMA TV AKSIYON 2
+http://130499.performservers.nz:80/saban10/sbn202040/103142
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Aile" tvg-name="TR: SINEMA TV AILE" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=170" group-title="TR-SINEMA",TR: SINEMA TV AILE
+http://130499.performservers.nz:80/saban10/sbn202040/166
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Aile 2" tvg-name="TR: SINEMA TV AILE 2" tvg-logo="https://img.dsmartgo.com.tr//content/e/Mq/22898/Thumbnail.png?v=637451112840546049" group-title="TR-SINEMA",TR: SINEMA TV AILE 2
+http://130499.performservers.nz:80/saban10/sbn202040/103141
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Yerli" tvg-name="TR: SINEMA TV YERLI" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="TR-SINEMA",TR: SINEMA TV YERLI
+http://130499.performservers.nz:80/saban10/sbn202040/165
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv Yerli 2" tvg-name="TR: SINEMA TV YERLI 2" tvg-logo="" group-title="TR-SINEMA",TR: SINEMA TV YERLI 2
+http://130499.performservers.nz:80/saban10/sbn202040/232360
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv 1001" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=171" group-title="TR-SINEMA",TR: SINEMA TV 1001
+http://130499.performservers.nz:80/saban10/sbn202040/164
+#EXTINF:0 user-agent="Firefox" tvg-id="Sinema Tv 1002" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="TR-SINEMA",TR: SINEMA TV 1002
+http://130499.performservers.nz:80/saban10/sbn202040/103140
+#EXTINF:0 user-agent="Firefox" tvg-id="MovieSmart Classic" tvg-name="TR: MOVIESMART Classic HD" tvg-logo="http://logo.multicms.info/logoslar/moviesmart.jpg" group-title="TR-SINEMA",TR: MOVIESMART Classic HD
+http://130499.performservers.nz:80/saban10/sbn202040/216
+#EXTINF:0 user-agent="Firefox" tvg-id="MovieSmart Türk" tvg-name="TR: MOVIESMART TURK" tvg-logo="http://logo.multicms.info/logoslar/moviesmart.jpg" group-title="TR-SINEMA",TR: MOVIESMART TURK
+http://130499.performservers.nz:80/saban10/sbn202040/64828
+#EXTINF:0 user-agent="Firefox" tvg-id="Filmbox" tvg-name="TR: Filmbox HD" tvg-logo="http://logo.multicms.info/tvlogo/filmboxhd.png" group-title="TR-SINEMA",TR: Filmbox HD
+http://130499.performservers.nz:80/saban10/sbn202040/66460
+*********************************YESILCAM***********************************************
 #EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal
 http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/423990
 #EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal 2
