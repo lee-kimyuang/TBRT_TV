@@ -1,6 +1,24 @@
 #EXTM3U
 
 ************KURU YEMİŞ SPOR TV*****************************
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 HD" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 HD
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/60440.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 720p [ 1000KB ]" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 720p [ 1000KB ]
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/4740.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 576p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 576p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/4521.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 360p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 360p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/318927.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 1080p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/4738.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 H.265(Hevc)" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 H.265(Hevc)
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/201419.ts
+#EXTINF:-1 tvg-id="CEVİZsports1.tr" tvg-name="CEVİZ Sports 1 4K" tvg-logo="http://logo.apk-red.com/news/CEVİZ-1.png" group-title="► CEVİZ Sports",CEVİZ Sports 1 4K
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/318926.ts
+#EXTINF:-1 tvg-id="CEVİZsports2.tr" tvg-name="CEVİZ Sports 2 720p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-2.png" group-title="► CEVİZ Sports",CEVİZ Sports 2 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/824.ts
+#EXTINF:-1 tvg-id="CEVİZsports2.tr" tvg-name="CEVİZ Sports 2 1080p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-2.png" group-title="► CEVİZ Sports",CEVİZ Sports 2 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/9368.ts
 
 #EXTINF:-1 tvg-id="CEVİZsports3.tr" tvg-name="CEVİZSport 3 Hd [Europe ]" tvg-logo="https://kanallogo2.com/images/spor/CEVİZ-sports-hd-3.png" group-title="TR • CEVİZSports",CEVİZSport 3 Hd [Europe ]
 http://ra.5916426.xyz:80/live/vegas1338/984375.508322/8301.ts
@@ -16,6 +34,26 @@ http://ra.5916426.xyz:80/live/vegas1338/984375.508322/244705.ts
 http://ra.5916426.xyz:80/live/vegas1338/984375.508322/194676.ts
 #EXTINF:-1 tvg-id="" tvg-name="CEVİZSport 5 [ 1080p ]" tvg-logo="https://i.hizliresim.com/nflrrx7.png" group-title="TR • CEVİZSports",CEVİZSport 5 [ 1080p ]
 http://ra.5916426.xyz:80/live/vegas1338/984375.508322/244706.ts
+#EXTINF:-1 tvg-id="CEVİZsports3.tr" tvg-name="CEVİZ Sports 3 720p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-3.png" group-title="► CEVİZ Sports",CEVİZ Sports 3 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/823.ts
+#EXTINF:-1 tvg-id="CEVİZsports3.tr" tvg-name="CEVİZ Sports 3 1080p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-3.png" group-title="► CEVİZ Sports",CEVİZ Sports 3 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/9369.ts
+#EXTINF:-1 tvg-id="CEVİZsports4.tr" tvg-name="CEVİZ Sports 4 720p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-4.png" group-title="► CEVİZ Sports",CEVİZ Sports 4 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/822.ts
+#EXTINF:-1 tvg-id="CEVİZsports4.tr" tvg-name="CEVİZ Sports 4 1080p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-4.png" group-title="► CEVİZ Sports",CEVİZ Sports 4 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/20835.ts
+#EXTINF:-1 tvg-id="CEVİZsport5.tr" tvg-name="CEVİZ Sports 5 720p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-5.png" group-title="► CEVİZ Sports",CEVİZ Sports 5 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/226083.ts
+#EXTINF:-1 tvg-id="CEVİZsport5.tr" tvg-name="CEVİZ Sports 5 1080p" tvg-logo="http://logo.apk-red.com/news/CEVİZ-5.png" group-title="► CEVİZ Sports",CEVİZ Sports 5 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/301164.ts
+#EXTINF:-1 tvg-id="CEVİZsportsmax1.tr" tvg-name="CEVİZ Sports Max 1 720p" tvg-logo="http://logo.apk-red.com/news/bsmax-1.png" group-title="► CEVİZ Sports",CEVİZ Sports Max 1 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/820.ts
+#EXTINF:-1 tvg-id="CEVİZsportsmax1.tr" tvg-name="CEVİZ Sports Max 1 1080p" tvg-logo="http://logo.apk-red.com/news/bsmax-1.png" group-title="► CEVİZ Sports",CEVİZ Sports Max 1 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/301166.ts
+#EXTINF:-1 tvg-id="CEVİZsportsmax2.tr" tvg-name="CEVİZ Sports Max 2 720p" tvg-logo="http://logo.apk-red.com/news/bsmax-2.png" group-title="► CEVİZ Sports",CEVİZ Sports Max 2 720p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/821.ts
+#EXTINF:-1 tvg-id="CEVİZsportsmax2.tr" tvg-name="CEVİZ Sports Max 2 1080p" tvg-logo="http://logo.apk-red.com/news/bsmax-2.png" group-title="► CEVİZ Sports",CEVİZ Sports Max 2 1080p
+http://filbox505.com:8080/live/vuralerkanat16ven/velibaba.161122f/301165.ts
 #EXTINF:-1 tvg-id="CEVİZsportsmax1.tr" tvg-name="CEVİZSport Max 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/CEVİZ-sports-max-1.png" group-title="TR • CEVİZSports",CEVİZSport Max 1 Hd
 http://ra.5916426.xyz:80/live/vegas1338/984375.508322/6977.ts
 #EXTINF:-1 tvg-id="" tvg-name="CEVİZSport Max 1 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/CEVİZ-sports-max-1.png" group-title="TR • CEVİZSports",CEVİZSport Max 1 Hd [ 1080p ]
