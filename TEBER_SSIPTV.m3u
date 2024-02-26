@@ -5,16 +5,13 @@ PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIML
 
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER SINEMA TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_SINEMA/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_MUZIK/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TEBER HE-MAN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TBR/COCUK/HE.MAN.png" group-title="TR | 7/24 ÇOCUK", HE-MAN HD
-http://103.161.34.2:8080/hacibelcika9048/NjscqGzs9HwM/439819
+https://raw.githubusercontent.com/Tebertv/TBRT_TV/main/tbrt1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER EHLİBEYT HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/playlist.m3u8
+https://raw.githubusercontent.com/Tebertv/TBRT_TV/main/tbrt2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE HD
+https://raw.githubusercontent.com/Tebertv/TBRT_TV/main/tbrt3.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBERTV➠AŞKI NEVA HD
 https://ythls.armelin.one/channel/UCJ5bBXls09z7Cjwg-qBzAZQ.m3u8
@@ -41,10 +38,10 @@ https://tls.tc/g0GFE
 https://l24.im/MgoS6
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/chunklist_w974889507.m3u8
+https://raw.githubusercontent.com/Tebertv/TBRT_TV/main/ismayillitv_HD.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ FHD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Ismayiilli_Meddaya/media_w537511478_28.m3u8
+https://raw.githubusercontent.com/Tebertv/TBRT_TV/main/ismayillitv_FHD.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI TV 
 https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
@@ -342,7 +339,7 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 
-***************************tvcdn**BÖLÜMÜ***********************************
+*********tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya*******************
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d9181fd0-491f-4939-9154-daefc24bc480.png" group-title="Diğer-Eğlence",Doğanay TV
 http://stream.tvcdn.net/diger-eglence/doganay-tv.m3u8
