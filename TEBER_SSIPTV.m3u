@@ -980,8 +980,8 @@ http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
 http://stream.tvcdn.net/kibris/kibris-tv.m3u8
 #EXTINF:1 tvg-id="TV2020.cy" tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="Kıbrıs",TV 2020
 http://stream.tvcdn.net/kibris/tv-2020.m3u8
-#EXTINF:1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="Kıbrıs",Güneş TV
-http://stream.tvcdn.net/kibris/gunes-tv.m3u8
+#EXTINF:1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="Refahiye24 TV
+https://cdn-refahiye24tv.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist_w1194312645.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="Kıbrıs",Kuzey Kıbrıs TV
 http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="Kıbrıs",Torba TV
